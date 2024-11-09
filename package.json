@@ -1,0 +1,25 @@
+{
+  "name": "autolottobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KRLEESEUNGJAE/AutoLottoBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KRLEESEUNGJAE/AutoLottoBot/issues"
+  },
+  "homepage": "https://github.com/KRLEESEUNGJAE/AutoLottoBot#readme",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "dayjs": "^1.11.13",
+    "puppeteer": "^23.7.1"
+  },
+  "type": "module"
+}
